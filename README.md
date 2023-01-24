@@ -7,6 +7,7 @@
 3. Сильная
 4. Самодостаточная
 
-![фото Фионы] (https://www.peoples.ru/character/movie/princess_fiona/princess_1.jpg)
+![фото Фионы](https://www.peoples.ru/character/movie/princess_fiona/princess_1.jpg)
+
 
 Итак, Шреку очень повезло с ней :)))
